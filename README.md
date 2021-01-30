@@ -1,4 +1,4 @@
-### Hello world, my name is Ricardo Vigil or, Alex Contreras for friends and not-boring people, welcome to my Github profile.
+### Hello world, Alex salutes you.
 
 - 🔭 I’m currently working on React JS projects
 - 🌱 I’m currently learning how to be a better developer
