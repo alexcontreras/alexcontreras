@@ -36,12 +36,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexcontreras&show_icons=true&theme=github_dark&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alexcontreras&theme=github-dark-blue" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexcontreras&show_icons=true&theme=github_dark&count_private=true&hide_border=true&include_all_commits=true&custom_title=Alex's%20GitHub%20Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcontreras&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcontreras&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alexcontreras&theme=darkhub&no-bg=true&no-frame=true&column=7" />
 </p>
 
 ---
