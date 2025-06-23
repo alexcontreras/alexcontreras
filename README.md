@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexcontreras&show_icons=true&theme=github_dark&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexcontreras&theme=github_dark&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alexcontreras&theme=github-dark-blue" height="180" />
 </p>
 
 <p align="center">
